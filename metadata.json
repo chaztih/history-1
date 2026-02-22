@@ -1,0 +1,5 @@
+{
+  "name": "時光籤筒 - 每日歷史抽籤",
+  "description": "每日抽取一個歷史事件，沉澱心情並記錄您的感悟。純前端實現，無需後端。",
+  "requestFramePermissions": []
+}
